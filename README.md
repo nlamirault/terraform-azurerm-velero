@@ -1,12 +1,12 @@
-# Sops into Azure
+# Velero into Azure
 
-![Tfsec](https://github.com/nlamirault/terraform-azurerm-sops/workflows/Tfsec/badge.svg)
+![Tfsec](https://github.com/nlamirault/terraform-azurerm-velero/workflows/Tfsec/badge.svg)
 
 ## Usage
 
 ```hcl
-module "sops" {
-  source  = "nlamirault/sops/azurerm"
+module "velero" {
+  source  = "nlamirault/velero/azurerm"
   version = "1.0.0"
 
 
