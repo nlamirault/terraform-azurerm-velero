@@ -26,7 +26,7 @@ and variables :
 
 | Name | Version |
 |------|---------|
-| terraform | >= 0.14.0 |
+| terraform | >= 1.0.0 |
 | azurerm | >= 2.48.0 |
 
 ## Providers
